@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-basics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon --ignore .data index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
